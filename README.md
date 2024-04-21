@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Khawaritzmi Abdallah Ahmad you can call me Khaiz/Itzmi/カイズ whatever you want, an AI and ML engineer based in Makassar City. I love watching videos on YouTube and I am passionate about Learning Japanese and Computer Science.
+
+## Skills
+- Programming Languages: Python
+- Frameworks & Libraries: [Frameworks/Libraries]
+- Tools & Technologies: [Tools/Technologies]
+- Other: [Other Relevant Skills]
+
+
+
 <!--
 **Khawaritzmi/khawaritzmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
